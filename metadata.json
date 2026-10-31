@@ -1,0 +1,6 @@
+{
+  "name": "Mornix",
+  "description": "Reliable daily briefing with verified news, local gold & silver rates, NRB forex, weather, and alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
